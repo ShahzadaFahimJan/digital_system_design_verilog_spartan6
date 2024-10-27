@@ -1,0 +1,151 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/liberosoftware/ModelSimPro/win32acoem
+vcarry
+Z0 !s110 1708421753
+!i10b 1
+!s100 0_J[7UA7O=0DzgnU^]ckP3
+IF99[DK4X1]=bA7m;h8oOz1
+Z1 dH:/faheeemjan/DSD_spring2024/lab2
+w1708421284
+8H:/faheeemjan/DSD_spring2024/lab2/carry.v
+FH:/faheeemjan/DSD_spring2024/lab2/carry.v
+!i122 22
+Z2 L0 2 5
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+Z4 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z5 !s108 1708421753.000000
+!s107 H:/faheeemjan/DSD_spring2024/lab2/carry.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/carry.v|
+!s101 -O0
+!i113 1
+Z6 o-work work -O0
+Z7 tCvgOpt 0
+vfulladder
+Z8 !s110 1708421754
+!i10b 1
+!s100 48h`IH4lh<:H@91m6OARI0
+IZjNm[9RV54I>5OdTFYiQ91
+R1
+w1708421593
+8H:/faheeemjan/DSD_spring2024/lab2/fullAdder.v
+FH:/faheeemjan/DSD_spring2024/lab2/fullAdder.v
+!i122 24
+L0 2 8
+R3
+R4
+r1
+!s85 0
+31
+Z9 !s108 1708421754.000000
+!s107 H:/faheeemjan/DSD_spring2024/lab2/fullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/fullAdder.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vhalfadder
+R0
+!i10b 1
+!s100 P4QmCda:TYITGG58_YOe[2
+IYG@bFLJ<j0YFVK1U0UM`L0
+R1
+w1708421340
+8H:/faheeemjan/DSD_spring2024/lab2/halfadder.v
+FH:/faheeemjan/DSD_spring2024/lab2/halfadder.v
+!i122 23
+L0 1 6
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 H:/faheeemjan/DSD_spring2024/lab2/halfadder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/halfadder.v|
+!s101 -O0
+!i113 1
+R6
+R7
+vrippleAdder
+R8
+!i10b 1
+!s100 AO3fO^zBfHI6m9G9]Sd<G3
+I@oiAW>U?Y@:;lJQV1F^P`2
+R1
+w1708421454
+8H:/faheeemjan/DSD_spring2024/lab2/RCA.v
+FH:/faheeemjan/DSD_spring2024/lab2/RCA.v
+!i122 25
+L0 2 11
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 H:/faheeemjan/DSD_spring2024/lab2/RCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/RCA.v|
+!s101 -O0
+!i113 1
+R6
+R7
+nripple@adder
+vstim_RCCCAAA
+R8
+!i10b 1
+!s100 b=W766ElZeEB:a6VR^PDQ0
+I3K^`ImQV5E@CiLShO1MfG2
+R1
+w1708421618
+8H:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v
+FH:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v
+!i122 26
+L0 2 13
+R3
+R4
+r1
+!s85 0
+31
+R9
+!s107 H:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v|
+!s101 -O0
+!i113 1
+R6
+R7
+nstim_@r@c@c@c@a@a@a
+vsum
+R0
+!i10b 1
+!s100 W01gdfOg3^HgM1XYV5b:;2
+I5LTfHEVRgGlRE3FX82FkU1
+R1
+w1708421263
+8H:/faheeemjan/DSD_spring2024/lab2/sum.v
+FH:/faheeemjan/DSD_spring2024/lab2/sum.v
+!i122 21
+R2
+R3
+R4
+r1
+!s85 0
+31
+R5
+!s107 H:/faheeemjan/DSD_spring2024/lab2/sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/sum.v|
+!s101 -O0
+!i113 1
+R6
+R7

@@ -1,0 +1,43 @@
+H:/faheeemjan/DSD_spring2024/lab2/sum.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/sum.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module sum
+
+Top level modules:
+	sum
+
+} {} {}} H:/faheeemjan/DSD_spring2024/lab2/carry.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/carry.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module carry
+
+Top level modules:
+	carry
+
+} {} {}} H:/faheeemjan/DSD_spring2024/lab2/RCA.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/RCA.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module rippleAdder
+
+Top level modules:
+	rippleAdder
+
+} {} {}} H:/faheeemjan/DSD_spring2024/lab2/halfadder.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/halfadder.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module halfadder
+
+Top level modules:
+	halfadder
+
+} {} {}} H:/faheeemjan/DSD_spring2024/lab2/fullAdder.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/fullAdder.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module fulladder
+
+Top level modules:
+	fulladder
+
+} {} {}} H:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v {1 {vlog -work work -stats=none H:/faheeemjan/DSD_spring2024/lab2/RCA_TB.v
+Model Technology ModelSim Microsemi Pro vlog 2022.2 Compiler 2022.04 Apr 26 2022
+-- Compiling module stim_RCCCAAA
+
+Top level modules:
+	stim_RCCCAAA
+
+} {} {}}

@@ -1,0 +1,154 @@
+m255
+K4
+z2
+!s11f vlog 2022.2 2022.04, Apr 26 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dH:/faheeemjan/DSD_spring2024/lab2
+vCARRY
+Z0 !s110 1708422809
+!i10b 1
+!s100 1>n[P[ABaIJz32_liB;7k3
+I7jl7?8a;QIoIE6YJAW<IC2
+Z1 dH:/faheeemjan/DSD_spring2024/lab2/task2
+w1708422489
+8H:/faheeemjan/DSD_spring2024/lab2/task2/carry.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/carry.v
+!i122 26
+L0 2 5
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OW;L;2022.2;75
+r1
+!s85 0
+31
+Z4 !s108 1708422809.000000
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/carry.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/carry.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -O0
+Z6 tCvgOpt 0
+n@c@a@r@r@y
+vFA1
+R0
+!i10b 1
+!s100 NzP0kCLnjnWc3XY`I^gm]1
+IXi[bT2k1z`CI19RVJNd4i3
+R1
+w1708422517
+8H:/faheeemjan/DSD_spring2024/lab2/task2/FullAdder.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/FullAdder.v
+!i122 27
+L0 2 10
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/FullAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/FullAdder.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@f@a1
+vRCA
+R0
+!i10b 1
+!s100 k9QIo1`oG@X4cRA=7olf81
+INAch0:Z]2BnT11A?TONmQ0
+R1
+w1708422632
+8H:/faheeemjan/DSD_spring2024/lab2/task2/RCA.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/RCA.v
+!i122 28
+L0 2 16
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/RCA.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/RCA.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@r@c@a
+vSUM
+R0
+!i10b 1
+!s100 2WG;<hKDP1^GQjHzIZ[NZ0
+IaO`8B65KTnK_KhM_heU6>2
+R1
+w1708422474
+8H:/faheeemjan/DSD_spring2024/lab2/task2/sum.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/sum.v
+!i122 25
+L0 1 5
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/sum.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/sum.v|
+!s101 -O0
+!i113 1
+R5
+R6
+n@s@u@m
+vtest_RCA
+!s110 1708422810
+!i10b 1
+!s100 ZSZieZ<Kn]?9:aVeXc>Dn1
+IaUUZiVR1nTMULM;XmZ<8<3
+R1
+w1708422690
+8H:/faheeemjan/DSD_spring2024/lab2/task2/test_rca.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/test_rca.v
+!i122 30
+L0 2 24
+R2
+R3
+r1
+!s85 0
+31
+!s108 1708422810.000000
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/test_rca.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/test_rca.v|
+!s101 -O0
+!i113 1
+R5
+R6
+ntest_@r@c@a
+vtop
+R0
+!i10b 1
+!s100 ?;dV:<cieNPd4l3IfYYh91
+IB8DnVL<oihc<aB__WdVi52
+R1
+w1708422595
+8H:/faheeemjan/DSD_spring2024/lab2/task2/top.v
+FH:/faheeemjan/DSD_spring2024/lab2/task2/top.v
+!i122 29
+L0 2 9
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 H:/faheeemjan/DSD_spring2024/lab2/task2/top.v|
+!s90 -reportprogress|300|-work|work|-stats=none|H:/faheeemjan/DSD_spring2024/lab2/task2/top.v|
+!s101 -O0
+!i113 1
+R5
+R6
