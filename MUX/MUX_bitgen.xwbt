@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=H:\faheeemjan\DSD_spring2024\lab6\MUX\MUX.ncd
+OUTFILE=H:\faheeemjan\DSD_spring2024\lab6\MUX\MUX.bit
+FAMILY=Spartan6
+PART=xc6slx9-2csg324
+WORKINGDIR=H:\faheeemjan\DSD_spring2024\lab6\MUX
+LICENSE=WebPack
+USER_INFO=__0_0_0
